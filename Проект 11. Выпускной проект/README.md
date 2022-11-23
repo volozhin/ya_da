@@ -16,5 +16,5 @@
 предложить пути решения проблемы потери выручки.
 Исследование позволит лучше понять как пользователи потребляют услуги и, возможно, выдвинуть гипотезы нового ценообразования.
 
-Библиотеки:
-pandas, matplotlib, numpy, seaborn, plotly, scipy, math, datetime
+# Библиотеки:
+pandas, matplotlib, numpy, seaborn, plotly, scipy, math, datetime, warnings
